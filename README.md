@@ -1,18 +1,12 @@
 [![Daphne's GitHub Banner](./media/Daphne.png)]()
 
 ## 📈GitHub Stats
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=daphwl&theme=moltack"/>
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daphwl&theme=moltack&layout=compact"/>
-</a> 
+![Daphne's GitHub stats](https://github-readme-stats.vercel.app/api?username=daphwl&show_icons=true&theme=moltack)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daphwl&theme=moltack&layout=compact)
+ 
 
 ## 💻 DIY projects
-<a href="https://github.com/daphwl/LED-Mood-Lamp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daphwl&repo=LED-Mood-Lamp&theme=moltack" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daphwl&repo=LED-Mood-Lamp&theme=moltack)](https://github.com/daphwl/LED-Mood-Lamp)
 
-<a href="https://github.com/daphwl/Touchless-Automatic-Mini-Dustbin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daphwl&repo=Touchless-Automatic-Mini-Dustbin&theme=moltack" />
-</a> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daphwl&repo=Touchless-Automatic-Mini-Dustbin&theme=moltack)](https://github.com/daphwl/Touchless-Automatic-Mini-Dustbin)

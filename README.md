@@ -11,4 +11,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daphwl&repo=Touchless-Automatic-Mini-Dustbin&theme=moltack)](https://github.com/daphwl/Touchless-Automatic-Mini-Dustbin)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daphwl&repo=RFID-Door-Lock-System-with-LCD-Display&theme=moltack)](https://github.com/daphwl/https://github.com/daphwl/RFID-Door-Lock-System-with-LCD-Display)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daphwl&repo=RFID-Door-Lock-System-with-LCD-Display&theme=moltack)](https://github.com/daphwl/RFID-Door-Lock-System-with-LCD-Display)

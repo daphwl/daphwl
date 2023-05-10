@@ -1,7 +1,7 @@
 [![Daphne's GitHub Banner](./media/Daphne.png)]()
 
 ## 📈GitHub Stats
-![Daphne's GitHub stats](https://github-readme-stats.vercel.app/api?username=daphwl&show_icons=true&theme=onedark)
+![Daphne's GitHub stats](https://readmestats.999857.xyz/api?username=daphwl&show_icons=true&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daphwl&theme=onedark&layout=compact)
  
